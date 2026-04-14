@@ -1,6 +1,6 @@
 import java.util.Scanner; // 1. Importando a classe Scanner
 
-public class Main {
+public class main {
 
     public static void main(String[] args) {
     //comentário
